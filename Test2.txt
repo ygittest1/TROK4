@@ -4,4 +4,9 @@ Create Test2.txt
 =======
 
 20191221’Ç‰Á
+<<<<<<< HEAD
+>>>>>>> w1
+=======
+tsuikatsuika
+
 >>>>>>> w1
